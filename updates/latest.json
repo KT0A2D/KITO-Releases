@@ -3,18 +3,18 @@
   "repository": "KT0A2D/KITO-Releases",
   "platform": "windows-x64",
   "release": {
-    "tag_name": "v0.2.0-local.15",
-    "html_url": "https://github.com/KT0A2D/KITO-Releases/releases/tag/v0.2.0-local.15",
-    "published_at": "2026-11-07T10:31:59Z",
-    "name": "KITO 0.2.0-local.15 Windows x64",
+    "tag_name": "v0.2.0-local.18",
+    "html_url": "https://github.com/KT0A2D/KITO-Releases/releases/tag/v0.2.0-local.18",
+    "published_at": "2026-11-17T08:41:10Z",
+    "name": "KITO 0.2.0-local.18 Windows x64",
     "draft": false,
     "prerelease": false,
     "assets": [
       {
-        "name": "KITO-0.2.0-local.15-win-x64.zip",
-        "size": 335061464,
-        "digest": "sha256:a3231a6aee53e3363413277e79795daa2d23f7569bc3b1741380a6a47e813929",
-        "browser_download_url": "https://github.com/KT0A2D/KITO-Releases/releases/download/v0.2.0-local.15/KITO-0.2.0-local.15-win-x64.zip",
+        "name": "KITO-0.2.0-local.18-win-x64.zip",
+        "size": 335155923,
+        "digest": "sha256:411f42ccde32764128da1796ba0c46b3a57ea8ac65566e0651b3c515023e4bcc",
+        "browser_download_url": "https://github.com/KT0A2D/KITO-Releases/releases/download/v0.2.0-local.18/KITO-0.2.0-local.18-win-x64.zip",
         "state": "uploaded"
       }
     ]
